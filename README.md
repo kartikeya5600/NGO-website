@@ -13,3 +13,5 @@ blog page: all the event and activites are shocased here .
 contac page : to contact and help the ngo in any way you can reach to them through this 
 ![Alt text](preview/contact.png)
 
+to make this project i have used the
+##HTML,CSS AND JAVASCRIPT AND MADE IT USING VSCODE##
